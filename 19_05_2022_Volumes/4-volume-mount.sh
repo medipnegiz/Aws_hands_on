@@ -31,6 +31,10 @@ df -h
 ls -lh /mnt/2nd-vol/
 ls -lh /mnt/3rd-vol-part2/
 
+# umount
+
+sudo umount /dev/xvdf /mnt/2nd-vol
+
 
 # NOTE: You can use "sudo mount -a" to mount volumes and partitions after editing fstab file without rebooting.
 
