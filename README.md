@@ -17,3 +17,5 @@ AWS Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 ### 🔖 [31_05_2022__Simple_Storage_Service](https://github.com/medipnegiz/aws_hands_on/tree/main/31_05_2022__Simple_Storage_Service)
 ### 🔖 [01_06_2022__S3_Replication](https://github.com/medipnegiz/aws_hands_on/tree/main/01_06_2022__S3_Replication)
 ### 🔖 [07_06_2022__Snapshots__AMI](https://github.com/medipnegiz/aws_hands_on/blob/main/07_06_2022__Snapshots__AMI/Snapshots_AMI.md)
+### 🔖 [10_06_2022__RDS](https://github.com/medipnegiz/aws_hands_on/blob/main/10_06_2022__RDS/Relational_Database.md)
+### 🔖 [11_06_2022__CLI](https://github.com/medipnegiz/aws_hands_on/blob/main/11_06_2022__CLI/Command_Line_Interface.sh)
