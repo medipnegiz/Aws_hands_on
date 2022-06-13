@@ -7,7 +7,7 @@ AWS Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 </p>
 <hr>
 
-## Index
+## Index 📜
 ### 🔖 [13_05_2022__Apache](https://github.com/medipnegiz/aws_hands_on/blob/main/13_05_2022__Apache/apache%20install.sh)
 ### 🔖 [16_05_2022__IAM](https://github.com/medipnegiz/aws_hands_on/blob/main/16_05_2022__IAM/IAM%20.md)
 ### 🔖 [19_05_2022__Volumes](https://github.com/medipnegiz/aws_hands_on/tree/main/19_05_2022_Volumes)
