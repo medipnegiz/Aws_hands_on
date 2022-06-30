@@ -24,3 +24,4 @@ AWS Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 ### 🔖 [20_06_2022__DynamoDB](https://github.com/medipnegiz/aws_hands_on/tree/main/20_06_2022__DynamoDB)
 ### 🔖 [21_06_2022__VPC_1](https://github.com/medipnegiz/aws_hands_on/blob/main/21_06_2022__VPC_1/Virtual_Privat_Cloud_1.md)
 ### 🔖 [22_06_2022__VPC_2](https://github.com/medipnegiz/aws_hands_on/blob/main/22_06_2022__VPC_2/Virtual_Private_Cloud_2.md)
+### 🔖 24_06_2022__VPC_3
