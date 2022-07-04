@@ -25,3 +25,4 @@ AWS Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 ### 🔖 [21_06_2022__VPC_1](https://github.com/medipnegiz/aws_hands_on/blob/main/21_06_2022__VPC_1/Virtual_Privat_Cloud_1.md)
 ### 🔖 [22_06_2022__VPC_2](https://github.com/medipnegiz/aws_hands_on/blob/main/22_06_2022__VPC_2/Virtual_Private_Cloud_2.md)
 ### 🔖 [24_06_2022__VPC_3](https://github.com/medipnegiz/aws_hands_on/tree/main/24_06_2022__VPC_3)
+### 🔖 [27_06_2022__Route_53](https://github.com/medipnegiz/aws_hands_on/tree/main/27_06_2022__Route_53)
