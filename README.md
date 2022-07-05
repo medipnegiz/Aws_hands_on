@@ -27,3 +27,4 @@ AWS Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 ### 🔖 [24_06_2022__VPC_3](https://github.com/medipnegiz/aws_hands_on/tree/main/24_06_2022__VPC_3)
 ### 🔖 [27_06_2022__Route_53](https://github.com/medipnegiz/aws_hands_on/tree/main/27_06_2022__Route_53)
 ### 🔖 [28_06_2022__VPC_4](https://github.com/medipnegiz/aws_hands_on/blob/main/28_06_2022__VPC_4/VPC4-LAMP-NACL.sh)
+29_06_2022__Route_53_2
