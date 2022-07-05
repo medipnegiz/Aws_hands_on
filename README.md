@@ -11,6 +11,7 @@ AWS Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 ### 🔖 [13_05_2022__Apache](https://github.com/medipnegiz/aws_hands_on/blob/main/13_05_2022__Apache/apache%20install.sh)
 How to Install Apache Web Server on EC2 Linux 2
 ### 🔖 [16_05_2022__IAM](https://github.com/medipnegiz/aws_hands_on/blob/main/16_05_2022__IAM/IAM%20.md)
+Purpose of the this hands-on training is to give basic understanding of how to use IAM and IAM components.
 ### 🔖 [19_05_2022__Volumes](https://github.com/medipnegiz/aws_hands_on/tree/main/19_05_2022_Volumes)
 ### 🔖 [24_05_2022__NGINX__Launch_Template](https://github.com/medipnegiz/aws_hands_on/tree/main/24_05_2022_NGINX__Launch_Template)
 ### 🔖 [27_05_2022__Elastic_Load_Balancers](https://github.com/medipnegiz/aws_hands_on/blob/main/27_05_2022__Elastic_Load_Balancers/Elastic_Load_Balancer.md)
