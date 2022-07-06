@@ -32,3 +32,4 @@ Purpose of the this hands-on training is to give the students basic knowledge of
 ### 🔖 [27_06_2022__Route_53](https://github.com/medipnegiz/aws_hands_on/tree/main/27_06_2022__Route_53)
 ### 🔖 [28_06_2022__VPC_4](https://github.com/medipnegiz/aws_hands_on/blob/main/28_06_2022__VPC_4/VPC4-LAMP-NACL.sh)
 ### 🔖 [29_06_2022__Route_53_2](https://github.com/medipnegiz/aws_hands_on/tree/main/29_06_2022__Route_53_2)
+01_07_2022__CloudFront
