@@ -41,3 +41,4 @@ Purpose of this hands-on training is to learn Application Load Balancer (ALB) wo
 ### 🔖 [29_06_2022__Route_53_2](https://github.com/medipnegiz/aws_hands_on/tree/main/29_06_2022__Route_53_2)
 ### 🔖 [01_07_2022__CloudFront](https://github.com/medipnegiz/aws_hands_on/tree/main/01_07_2022__CloudFront)
 ### 🔖 [04_07_2022__Lambda__API_Gateway](https://github.com/medipnegiz/aws_hands_on/blob/main/04_07_2022__Lambda__API_Gateway/Lambda_API_Gateway.md)
+### 🔖 [05_07_2022__WAF](https://github.com/medipnegiz/aws_hands_on/blob/main/05_07_2022__WAF/AWS_Security_WAF.md)
