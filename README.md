@@ -28,6 +28,8 @@ Purpose of this hands-on training is to learn Application Load Balancer (ALB) wo
 Purpose of the this hands-on training is to give the students basic knowledge of how to configure AWS Load Balancers with Auto Scaling Group and Launch Template.
 
 ### 🔖 [31_05_2022__Simple_Storage_Service](https://github.com/medipnegiz/aws_hands_on/tree/main/31_05_2022__Simple_Storage_Service)
+Purpose of the this hands-on training is to instruct students how to to create a S3 bucket, how to configure S3 to host static website and to give understanding to versioning and logging.
+
 ### 🔖 [01_06_2022__S3_Replication](https://github.com/medipnegiz/aws_hands_on/tree/main/01_06_2022__S3_Replication)
 ### 🔖 [07_06_2022__Snapshots__AMI](https://github.com/medipnegiz/aws_hands_on/blob/main/07_06_2022__Snapshots__AMI/Snapshots_AMI.md)
 ### 🔖 [10_06_2022__RDS](https://github.com/medipnegiz/aws_hands_on/blob/main/10_06_2022__RDS/Relational_Database.md)
