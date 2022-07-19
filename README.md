@@ -34,6 +34,8 @@ Purpose of the this hands-on training is to instruct students how to to create a
 Purpose of the this hands-on training is to review how to to create a S3 bucket, configure S3 to host static website, manage lifecycle of objects and to implement bucket replication.
 
 ### 🔖 [07_06_2022__Snapshots__AMI](https://github.com/medipnegiz/aws_hands_on/blob/main/07_06_2022__Snapshots__AMI/Snapshots_AMI.md)
+Purpose of the this hands-on training is to teach students how to take a snapshot of EC2 instance, create an image from EC2 instance and using Data Lifecycle Manager.
+
 ### 🔖 [10_06_2022__RDS](https://github.com/medipnegiz/aws_hands_on/blob/main/10_06_2022__RDS/Relational_Database.md)
 ### 🔖 [11_06_2022__CLI](https://github.com/medipnegiz/aws_hands_on/blob/main/11_06_2022__CLI/Command_Line_Interface.sh)
 ### 🔖 [14_06_2022__MariaDB](https://github.com/medipnegiz/aws_hands_on/tree/main/14_06_2022__MariaDB)
