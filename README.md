@@ -52,3 +52,4 @@ Purpose of the this hands-on training is to teach students how to take a snapsho
 ### 🔖 [05_07_2022__WAF](https://github.com/medipnegiz/aws_hands_on/blob/main/05_07_2022__WAF/AWS_Security_WAF.md)
 ### 🔖 [06_07_2022__Boto3](https://github.com/medipnegiz/aws_hands_on/blob/main/06_07_2022__Boto3/Boto3.md)
 ### 🔖 [06_07_2022__ElasticBeanstalk](https://github.com/medipnegiz/aws_hands_on/tree/main/06_07_2022__ElasticBeanstalk)
+### 🔖 [08_07_2022__Cloudwatch]()
