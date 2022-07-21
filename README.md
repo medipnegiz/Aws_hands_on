@@ -25,9 +25,17 @@ Purpose of the this hands-on training is to give the students basic knowledge of
 Purpose of this hands-on training is to learn Application Load Balancer (ALB) working process. Especially, we’ll cover the details of the AWS solution suite and walk through how to set up a basic ALB.
 
 ### 🔖 [28_05_2022__Auto_Scaling](https://github.com/medipnegiz/aws_hands_on/blob/main/28_05_2022__Auto_Scaling/Auto_Scaling.md)
+Purpose of the this hands-on training is to give the students basic knowledge of how to configure AWS Load Balancers with Auto Scaling Group and Launch Template.
+
 ### 🔖 [31_05_2022__Simple_Storage_Service](https://github.com/medipnegiz/aws_hands_on/tree/main/31_05_2022__Simple_Storage_Service)
+Purpose of the this hands-on training is to instruct students how to to create a S3 bucket, how to configure S3 to host static website and to give understanding to versioning and logging.
+
 ### 🔖 [01_06_2022__S3_Replication](https://github.com/medipnegiz/aws_hands_on/tree/main/01_06_2022__S3_Replication)
+Purpose of the this hands-on training is to review how to to create a S3 bucket, configure S3 to host static website, manage lifecycle of objects and to implement bucket replication.
+
 ### 🔖 [07_06_2022__Snapshots__AMI](https://github.com/medipnegiz/aws_hands_on/blob/main/07_06_2022__Snapshots__AMI/Snapshots_AMI.md)
+Purpose of the this hands-on training is to teach students how to take a snapshot of EC2 instance, create an image from EC2 instance and using Data Lifecycle Manager.
+
 ### 🔖 [10_06_2022__RDS](https://github.com/medipnegiz/aws_hands_on/blob/main/10_06_2022__RDS/Relational_Database.md)
 ### 🔖 [11_06_2022__CLI](https://github.com/medipnegiz/aws_hands_on/blob/main/11_06_2022__CLI/Command_Line_Interface.sh)
 ### 🔖 [14_06_2022__MariaDB](https://github.com/medipnegiz/aws_hands_on/tree/main/14_06_2022__MariaDB)
@@ -43,3 +51,4 @@ Purpose of this hands-on training is to learn Application Load Balancer (ALB) wo
 ### 🔖 [04_07_2022__Lambda__API_Gateway](https://github.com/medipnegiz/aws_hands_on/blob/main/04_07_2022__Lambda__API_Gateway/Lambda_API_Gateway.md)
 ### 🔖 [05_07_2022__WAF](https://github.com/medipnegiz/aws_hands_on/blob/main/05_07_2022__WAF/AWS_Security_WAF.md)
 ### 🔖 [06_07_2022__Boto3](https://github.com/medipnegiz/aws_hands_on/blob/main/06_07_2022__Boto3/Boto3.md)
+### 🔖 [06_07_2022__ElasticBeanstalk](https://github.com/medipnegiz/aws_hands_on/tree/main/06_07_2022__ElasticBeanstalk)
