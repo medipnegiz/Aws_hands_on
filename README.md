@@ -53,3 +53,4 @@ Purpose of the this hands-on training is to teach students how to take a snapsho
 ### 🔖 [06_07_2022__Boto3](https://github.com/medipnegiz/aws_hands_on/blob/main/06_07_2022__Boto3/Boto3.md)
 ### 🔖 [06_07_2022__ElasticBeanstalk](https://github.com/medipnegiz/aws_hands_on/tree/main/06_07_2022__ElasticBeanstalk)
 ### 🔖 [08_07_2022__Cloudwatch](https://github.com/medipnegiz/aws_hands_on/blob/main/08_07_2022__Cloudwatch/CloudWatch.md)
+### 🔖 [13_07_2022__SNS__SQS](https://github.com/medipnegiz/aws_hands_on/tree/main/13_07_2022__SNS__SQS)
