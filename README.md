@@ -37,6 +37,8 @@ Purpose of the this hands-on training is to review how to to create a S3 bucket,
 Purpose of the this hands-on training is to teach students how to take a snapshot of EC2 instance, create an image from EC2 instance and using Data Lifecycle Manager.
 
 ### 🔖 [10_06_2022__RDS](https://github.com/medipnegiz/aws_hands_on/blob/main/10_06_2022__RDS/Relational_Database.md)
+Purpose of the this hands-on training is to configure RDS Instance via AWS Management Console and connect from MySQL Workbench.
+
 ### 🔖 [11_06_2022__CLI](https://github.com/medipnegiz/aws_hands_on/blob/main/11_06_2022__CLI/Command_Line_Interface.sh)
 ### 🔖 [14_06_2022__MariaDB](https://github.com/medipnegiz/aws_hands_on/tree/main/14_06_2022__MariaDB)
 ### 🔖 [15_06_2022__DB_Restore_from_Snapshot](https://github.com/medipnegiz/aws_hands_on/tree/main/15_06_2022__DB_Restore_from_Snapshot)
