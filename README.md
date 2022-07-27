@@ -40,6 +40,8 @@ Purpose of the this hands-on training is to teach students how to take a snapsho
 Purpose of the this hands-on training is to configure RDS Instance via AWS Management Console and connect from MySQL Workbench.
 
 ### 🔖 [11_06_2022__CLI](https://github.com/medipnegiz/aws_hands_on/blob/main/11_06_2022__CLI/Command_Line_Interface.sh)
+The purpose of this hands-on tutorial is to understand creating and deleting Buckets in S3, EC2 Launching and terminating via the AWS Command Line Interface.
+
 ### 🔖 [14_06_2022__MariaDB](https://github.com/medipnegiz/aws_hands_on/tree/main/14_06_2022__MariaDB)
 ### 🔖 [15_06_2022__DB_Restore_from_Snapshot](https://github.com/medipnegiz/aws_hands_on/tree/main/15_06_2022__DB_Restore_from_Snapshot)
 ### 🔖 [20_06_2022__DynamoDB](https://github.com/medipnegiz/aws_hands_on/tree/main/20_06_2022__DynamoDB)
