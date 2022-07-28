@@ -43,6 +43,8 @@ Purpose of the this hands-on training is to configure RDS Instance via AWS Manag
 The purpose of this hands-on tutorial is to understand creating and deleting Buckets in S3, EC2 Launching and terminating via the AWS Command Line Interface.
 
 ### 🔖 [14_06_2022__MariaDB](https://github.com/medipnegiz/aws_hands_on/tree/main/14_06_2022__MariaDB)
+Purpose of the this hands-on training is to create EC2 Instance and Installing MariaDB Server, connecting and configuring MariaDB Database, manipulating MariaDB Database and creating a Client Instance and connecting to MariaDB Server Instance Remotely.
+
 ### 🔖 [15_06_2022__DB_Restore_from_Snapshot](https://github.com/medipnegiz/aws_hands_on/tree/main/15_06_2022__DB_Restore_from_Snapshot)
 ### 🔖 [20_06_2022__DynamoDB](https://github.com/medipnegiz/aws_hands_on/tree/main/20_06_2022__DynamoDB)
 ### 🔖 [21_06_2022__VPC_1](https://github.com/medipnegiz/aws_hands_on/blob/main/21_06_2022__VPC_1/Virtual_Privat_Cloud_1.md)
