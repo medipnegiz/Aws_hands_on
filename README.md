@@ -46,6 +46,8 @@ The purpose of this hands-on tutorial is to understand creating and deleting Buc
 Purpose of the this hands-on training is to create EC2 Instance and Installing MariaDB Server, connecting and configuring MariaDB Database, manipulating MariaDB Database and creating a Client Instance and connecting to MariaDB Server Instance Remotely.
 
 ### 🔖 [15_06_2022__DB_Restore_from_Snapshot](https://github.com/medipnegiz/aws_hands_on/tree/main/15_06_2022__DB_Restore_from_Snapshot)
+Purpose of the this hands-on training is to give understanding to take a manual snapshot from RDS DB instance, restore RDS DB instance from this snapshot, and also restore RDS DB instance from a point in time. We'll use the RDS crated in former session.(Hands-on DB-01)
+
 ### 🔖 [20_06_2022__DynamoDB](https://github.com/medipnegiz/aws_hands_on/tree/main/20_06_2022__DynamoDB)
 ### 🔖 [21_06_2022__VPC_1](https://github.com/medipnegiz/aws_hands_on/blob/main/21_06_2022__VPC_1/Virtual_Privat_Cloud_1.md)
 ### 🔖 [22_06_2022__VPC_2](https://github.com/medipnegiz/aws_hands_on/blob/main/22_06_2022__VPC_2/Virtual_Private_Cloud_2.md)
