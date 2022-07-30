@@ -49,6 +49,8 @@ Purpose of the this hands-on training is to create EC2 Instance and Installing M
 Purpose of the this hands-on training is to give understanding to take a manual snapshot from RDS DB instance, restore RDS DB instance from this snapshot, and also restore RDS DB instance from a point in time. We'll use the RDS crated in former session.(Hands-on DB-01)
 
 ### 🔖 [20_06_2022__DynamoDB](https://github.com/medipnegiz/aws_hands_on/tree/main/20_06_2022__DynamoDB)
+Purpose of the this hands-on training is to learn creating DynamoDB tables, manipulating DynamoDB database and running queries on DynamoDB tables.
+
 ### 🔖 [21_06_2022__VPC_1](https://github.com/medipnegiz/aws_hands_on/blob/main/21_06_2022__VPC_1/Virtual_Privat_Cloud_1.md)
 ### 🔖 [22_06_2022__VPC_2](https://github.com/medipnegiz/aws_hands_on/blob/main/22_06_2022__VPC_2/Virtual_Private_Cloud_2.md)
 ### 🔖 [24_06_2022__VPC_3](https://github.com/medipnegiz/aws_hands_on/tree/main/24_06_2022__VPC_3)
