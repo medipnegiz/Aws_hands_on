@@ -55,7 +55,7 @@ Purpose of the this hands-on training is to learn creating DynamoDB tables, mani
 Purpose of the this hands-on training is to create VPC and configure VPC with components.
 
 ### 🔖 [22_06_2022__VPC_2](https://github.com/medipnegiz/aws_hands_on/blob/main/22_06_2022__VPC_2/Virtual_Private_Cloud_2.md)
-Purpose of the this hands-on training is to create Bastion Host and connect to the private subnet from internet
+Purpose of the this hands-on training is to create Bastion Host and connect to the private subnet from internet, create NAT Gateway and NAT Instance
 
 ### 🔖 [24_06_2022__VPC_3](https://github.com/medipnegiz/aws_hands_on/tree/main/24_06_2022__VPC_3)
 Purpose of the this hands-on training is to create VPC peering between two VPCs, access S3 Bucket from Private-Instance and create Endpoint
