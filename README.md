@@ -52,6 +52,8 @@ Purpose of the this hands-on training is to give understanding to take a manual 
 Purpose of the this hands-on training is to learn creating DynamoDB tables, manipulating DynamoDB database and running queries on DynamoDB tables.
 
 ### 🔖 [21_06_2022__VPC_1](https://github.com/medipnegiz/aws_hands_on/blob/main/21_06_2022__VPC_1/Virtual_Privat_Cloud_1.md)
+Purpose of the this hands-on training is to create VPC and configure VPC with components.
+
 ### 🔖 [22_06_2022__VPC_2](https://github.com/medipnegiz/aws_hands_on/blob/main/22_06_2022__VPC_2/Virtual_Private_Cloud_2.md)
 ### 🔖 [24_06_2022__VPC_3](https://github.com/medipnegiz/aws_hands_on/tree/main/24_06_2022__VPC_3)
 ### 🔖 [27_06_2022__Route_53](https://github.com/medipnegiz/aws_hands_on/tree/main/27_06_2022__Route_53)
