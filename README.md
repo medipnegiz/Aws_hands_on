@@ -64,6 +64,8 @@ Purpose of the this hands-on training is to create VPC peering between two VPCs,
 Purpose of the this hands-on training is to creating a DNS record sets
 
 ### 🔖 [28_06_2022__VPC_4](https://github.com/medipnegiz/aws_hands_on/blob/main/28_06_2022__VPC_4/VPC4-LAMP-NACL.sh)
+Purpose of the this hands-on training is to create LAMP stack with Wordpress and configure NACL
+
 ### 🔖 [29_06_2022__Route_53_2](https://github.com/medipnegiz/aws_hands_on/tree/main/29_06_2022__Route_53_2)
 ### 🔖 [01_07_2022__CloudFront](https://github.com/medipnegiz/aws_hands_on/tree/main/01_07_2022__CloudFront)
 ### 🔖 [04_07_2022__Lambda__API_Gateway](https://github.com/medipnegiz/aws_hands_on/blob/main/04_07_2022__Lambda__API_Gateway/Lambda_API_Gateway.md)
