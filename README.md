@@ -71,6 +71,8 @@ Purpose of the this hands-on training is to creating a DNS record sets and imple
 
 ### 🔖 [01_07_2022__CloudFront](https://github.com/medipnegiz/aws_hands_on/tree/main/01_07_2022__CloudFront)
 ### 🔖 [04_07_2022__Lambda__API_Gateway](https://github.com/medipnegiz/aws_hands_on/blob/main/04_07_2022__Lambda__API_Gateway/Lambda_API_Gateway.md)
+The topics for this hands-on session will be AWS Lambda, function as a service (FaaS). During this Playground we will create two AWS S3 Buckets and using AWS Lambda to synchronize them. In addition, We will show the association between Lambda and API Gateway.
+
 ### 🔖 [05_07_2022__WAF](https://github.com/medipnegiz/aws_hands_on/blob/main/05_07_2022__WAF/AWS_Security_WAF.md)
 ### 🔖 [06_07_2022__Boto3](https://github.com/medipnegiz/aws_hands_on/blob/main/06_07_2022__Boto3/Boto3.md)
 ### 🔖 [06_07_2022__ElasticBeanstalk](https://github.com/medipnegiz/aws_hands_on/tree/main/06_07_2022__ElasticBeanstalk)
