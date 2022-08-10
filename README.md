@@ -89,7 +89,9 @@ Purpose of the this hands-on training is to create Dashboard, Cloudwatch Alarm, 
 
 ### 🔖 [13_07_2022__SNS__SQS](https://github.com/medipnegiz/aws_hands_on/tree/main/13_07_2022__SNS__SQS)
 The purpose of this SNS hands-on training is to Create Topic, Subscription, Publish Message and  Create a CloudWatch Event (Amazon EventBridge) to Invoke SNS.
+
 The purpose of this SQS hands-on tutorial is to Create Queue, Send and Receive Messages and Creating Lambda Function to Be Triggered by SQS
 
 ### 🔖 [15_07_2022__EFS](https://github.com/medipnegiz/aws_hands_on/blob/main/15_07_2022__EFS/EFS.md)
+The purpose of this hands-on tutorial is How to Create EFS & Attach the EFS to the multiple EC2 Linux 2 Instances
 
