@@ -79,6 +79,8 @@ The topics for this hands-on session will be AWS Lambda, function as a service (
 Purpose of this hands-on training is to get exposure to AWS WAF. We'll cover how to attach WAF Web ACLs to an Application Load Balancer and prevent undesired traffic getting through to servers behind the WAF.
 
 ### 🔖 [06_07_2022__Boto3](https://github.com/medipnegiz/aws_hands_on/blob/main/06_07_2022__Boto3/Boto3.md)
+The purpose of this hands-on training is Boto3 installation, configuration and examples.
+
 ### 🔖 [06_07_2022__ElasticBeanstalk](https://github.com/medipnegiz/aws_hands_on/tree/main/06_07_2022__ElasticBeanstalk)
 ### 🔖 [08_07_2022__Cloudwatch](https://github.com/medipnegiz/aws_hands_on/blob/main/08_07_2022__Cloudwatch/CloudWatch.md)
 Purpose of the this hands-on training is to create Dashboard, Cloudwatch Alarm, configure Events option and set Logging up.
