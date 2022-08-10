@@ -82,6 +82,8 @@ Purpose of this hands-on training is to get exposure to AWS WAF. We'll cover how
 The purpose of this hands-on training is Boto3 installation, configuration and examples.
 
 ### 🔖 [06_07_2022__ElasticBeanstalk](https://github.com/medipnegiz/aws_hands_on/tree/main/06_07_2022__ElasticBeanstalk)
+The purpose of this hands-on tutorial is to launch PHP application using ElasticBeanStalk
+
 ### 🔖 [08_07_2022__Cloudwatch](https://github.com/medipnegiz/aws_hands_on/blob/main/08_07_2022__Cloudwatch/CloudWatch.md)
 Purpose of the this hands-on training is to create Dashboard, Cloudwatch Alarm, configure Events option and set Logging up.
 
